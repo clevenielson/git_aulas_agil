@@ -4,5 +4,6 @@ display_messages = [
     'olá mundo! estou aqui!',
     'Acredite nos seus caminhos! Sempre!'
     'Nunca faça delete sem where!',
-    'Sempre apague as luzes antes de sair'
+    'Sempre apague as luzes antes de sair',
+    'Estamos aqui aprendendo sobre branches'
 ]
